@@ -41,10 +41,6 @@ flutter pub get
 flutter run
 ```
 
-## Screenshots
-
-[Add your app screenshots here]
-
 ## Built With
 
 - [Flutter](https://flutter.dev/) - UI Framework
